@@ -157,3 +157,7 @@ Lalu buka alamat yang ditampilkan Vite (biasanya http://localhost:5173).
 - **Helper ikut terkena ray.** `AxesHelper` dinonaktifkan dari raycast (`raycast = () => {}`).
 - **Konsol.** Satu-satunya log yang sengaja ditambahkan adalah `console.log` hierarchy GLB saat model termuat.
   Cek tab Console browser (F12) sebelum mengumpulkan untuk memastikan tidak ada error.
+
+## Screenshot Hasil
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0cb4cb0-287f-4192-b046-281a82708bb7" />
+
